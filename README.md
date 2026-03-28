@@ -120,14 +120,5 @@ Users who:
 
 ---
 
-## 🤝 Contributing
-
-Feel free to fork this repo and improve queries or add new analysis!
-
----
-
-## 📬 Contact
-
-**Sumit Raut**
 📍 Nagpur, India
 💼 Open to Data Analyst / SQL Developer roles
