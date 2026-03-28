@@ -119,6 +119,3 @@ Users who:
 * Add indexing for performance optimization
 
 ---
-
-📍 Nagpur, India
-💼 Open to Data Analyst / SQL Developer roles
